@@ -18,8 +18,10 @@ published_at: 2022-12-10 00:00
 私がツールを作るときに考えていることと、ツールの内容についての記事です。  
 
 ツールのリポジトリはこちら  
+https://github.com/Typhoon0x73/s3d_built-in_resource_supporter  
 
 ツールダウンロードはこちら  
+https://github.com/Typhoon0x73/s3d_built-in_resource_supporter/releases/tag/alpha_2022_12_09  
   
 # きっかけ  
 開発が楽になるように環境改善していきたいと考えたのが始まりでした。  
